@@ -1,5 +1,8 @@
+Wordpress Arabic Virtual Keyboard
+
 Make it very easy to type using this virtual keyboard without any 3rd party Software or Web sites.Really easy to type in Arabic language.You can search something in google or yahoo by using this keyboard.If your keyboard is not working, or you can type in mobile phone easy using this virtual keyboard.Use <strong>[wp-arabic-virtual-keyboard]</strong> shortcode to display the keyboard any place.
 
+https://wordpress.org/plugins/wp-arabic-virtual-keyboard/
 
 Browser Compatible
 Firefox 16+
